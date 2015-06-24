@@ -22,3 +22,9 @@ p {
 .key {
 	margin-top: 25px;
 }
+header, main, footer {
+	padding-left: 240px;
+}
+.sidebar {
+	width: 240px;
+}
